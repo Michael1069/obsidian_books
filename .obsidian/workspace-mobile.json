@@ -56,9 +56,31 @@
               "type": "pdf",
               "state": {
                 "file": "Books/Assets/The Art Of Persuasion.pdf",
-                "page": 12,
-                "left": 0,
-                "top": 129,
+                "page": 13,
+                "left": -1,
+                "top": 714,
+                "zoom": 0.5612745098039216
+              },
+              "icon": "lucide-file-text",
+              "title": "The Art Of Persuasion"
+            }
+          }
+        ]
+      },
+      {
+        "id": "81168165b7f01ec7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b3cc0de30e3686f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Books/Assets/The Art Of Persuasion.pdf",
+                "page": 13,
+                "left": -1,
+                "top": 719,
                 "zoom": 0.5612745098039216
               },
               "icon": "lucide-file-text",
@@ -218,7 +240,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "8708b28797136d58",
+  "active": "1b3cc0de30e3686f",
   "lastOpenFiles": [
     "Books/The Art of Persuasion - Bob Burg.md",
     "Books/Assets/The Art Of Persuasion.pdf",
