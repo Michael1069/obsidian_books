@@ -1,0 +1,5 @@
+views:
+  - type: cards
+    name: View
+    image: note.coverSmallUrl
+    imageFit: contain
