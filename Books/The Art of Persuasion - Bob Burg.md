@@ -41,3 +41,8 @@ isbn13: 9780768413007
 > [!PDF|red] [[The Art Of Persuasion.pdf#page=14&selection=55,0,55,46&color=red|The Art Of Persuasion, p.14]]
 > > We human beings act out of emotion, not logic.
 
+> [!PDF|] [[The Art Of Persuasion.pdf#page=15&selection=19,7,20,54|The Art Of Persuasion, p.15]]
+> HE UNDERSTANDS ME !!
+> > After all, you consider yourself to be a very logical person, don’t you? And you probably are. I’d like to think the same about myself.
+> 
+> 
