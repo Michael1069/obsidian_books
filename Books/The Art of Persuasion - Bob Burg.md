@@ -34,6 +34,6 @@ isbn13: 9780768413007
 > >  these methods really work. That’s one reason I suggest reading and reviewing the book several times, until you begin to internalize the information so it becomes part of your being, a genuine part of who you are. You could simply read over and learn the information, and if you do, you will indeed see an improvement. But once it becomes a part of you—your heart, your essence—without your having to think about it, you’ll see your interpersonal effectiveness go through the roof.
 
 > [!PDF|] [[The Art Of Persuasion.pdf#page=14&selection=8,0,11,15|The Art Of Persuasion, p.14]]
-> > How To Have Confidence and Power in Dealing With People, by Les Giblin. 
 > 
+> > How To Have Confidence and Power in Dealing With People, by Les Giblin. 
 > 
