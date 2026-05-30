@@ -5,7 +5,6 @@ views:
       and:
         - file.folder == "Books"
     order:
-      - file.name
       - title
     image: note.coverSmallUrl
     imageFit: contain
