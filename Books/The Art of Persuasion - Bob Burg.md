@@ -16,6 +16,9 @@ previewLink: http://books.google.co.in/books?id=gQRquQAACAAJ&dq=%22The+art+of+pe
 isbn10: 768413001
 isbn13: 9780768413007
 ---
+> [!PDF|] [[The Art Of Persuasion.pdf#page=10&selection=22,24,32,16|The Art Of Persuasion, p.10]]
+> > success in most areas of life is based 10 percent on technical skills and 90 percent on people skills. From my experience, those figures ring absolutely true.
+
 
 > [!PDF|red] [[The Art Of Persuasion.pdf#page=9&selection=23,0,31,1&color=red|The Art Of Persuasion, p.9]]
 > > According to Webster’s Dictionary, to win means to succeed or prevail in a contest or effort; to triumph; to be victorious.
