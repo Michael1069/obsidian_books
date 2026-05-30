@@ -3,4 +3,4 @@ views:
     name: View
     image: note.coverSmallUrl
     imageFit: contain
-    imageAspectRatio: 1.15
+    imageAspectRatio: 1.45
