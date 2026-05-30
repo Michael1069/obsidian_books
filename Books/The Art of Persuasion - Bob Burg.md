@@ -16,3 +16,4 @@ previewLink: http://books.google.co.in/books?id=gQRquQAACAAJ&dq=%22The+art+of+pe
 isbn10: 768413001
 isbn13: 9780768413007
 ---
+![[The Art Of Persuasion.pdf]]
