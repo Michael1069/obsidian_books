@@ -44,5 +44,7 @@ isbn13: 9780768413007
 > [!PDF|note] [[The Art Of Persuasion.pdf#page=15&selection=19,7,20,54&color=note|The Art Of Persuasion, p.15]]
 > HE UNDERSTANDS ME !!
 > > After all, you consider yourself to be a very logical person, don’t you? And you probably are. I’d like to think the same about myself.
-> 
-> 
+
+> [!PDF|important] [[The Art Of Persuasion.pdf#page=15&selection=30,31,33,25&color=important|The Art Of Persuasion, p.15]]
+> > We make decisions based on several types of emotions, but they all boil down to these two main drives: a) The desire for pleasure. b) The avoidance of pain.
+
