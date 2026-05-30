@@ -119,14 +119,16 @@
             "id": "5a647a996f4e40b6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Books/The Art of Persuasion - Bob Burg.md",
-                "mode": "source",
-                "source": false
+                "file": "Books/Assets/The Art Of Persuasion.pdf",
+                "page": 14,
+                "left": 0,
+                "top": 548,
+                "zoom": 0.5612745098039216
               },
-              "icon": "lucide-file",
-              "title": "The Art of Persuasion - Bob Burg"
+              "icon": "lucide-file-text",
+              "title": "The Art Of Persuasion"
             }
           }
         ]
@@ -284,8 +286,8 @@
   },
   "active": "5a647a996f4e40b6",
   "lastOpenFiles": [
-    "Books/Assets/The Art Of Persuasion.pdf",
     "Books/The Art of Persuasion - Bob Burg.md",
+    "Books/Assets/The Art Of Persuasion.pdf",
     "Books/The Courage To Be Disliked - Ichiro Kishimi Fumitake Koga.md",
     "Books/The Alchemist.md",
     "Book_View_Mobile.base",
