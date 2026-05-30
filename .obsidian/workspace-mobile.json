@@ -13,11 +13,11 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "Book View.base",
+                "file": "Book_View_Mobile.base",
                 "viewName": "View"
               },
               "icon": "lucide-layout-grid",
-              "title": "Book View"
+              "title": "Book_View_Mobile"
             }
           }
         ]
@@ -171,6 +171,9 @@
   },
   "active": "8708b28797136d58",
   "lastOpenFiles": [
+    "Book View.base",
+    "Book_View_Mobile.base",
+    "/Book_View_Mobile.base",
     "README.md",
     "Books/The Courage To Be Disliked - Ichiro Kishimi Fumitake Koga.md",
     "Books/The Art of Persuasion - Bob Burg.md",
@@ -179,7 +182,6 @@
     "Books/Talking with Psychopaths and Savages - a Journey Into the Evil Mind - Christopher Berry-Dee.md",
     "Books/Talking With Psychopaths and Savages Beyond Evil - Christopher Berry-Dee.md",
     "Untitled.base",
-    "Book View.base",
     "Books"
   ]
 }
