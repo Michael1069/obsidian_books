@@ -36,4 +36,8 @@ isbn13: 9780768413007
 > [!cite] [[The Art Of Persuasion.pdf#page=14&selection=8,0,11,15&color=important|The Art Of Persuasion, p.14]]
 > Book recommendation:
 > > How To Have Confidence and Power in Dealing With People, by Les Giblin. 
-> 
+>
+
+> [!PDF|] [[The Art Of Persuasion.pdf#page=14&selection=55,0,55,46|The Art Of Persuasion, p.14]]
+> > We human beings act out of emotion, not logic.
+
