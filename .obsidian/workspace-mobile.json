@@ -11,13 +11,16 @@
             "id": "8708b28797136d58",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "pdf",
               "state": {
-                "file": "Book_View_Mobile.base",
-                "viewName": "View"
+                "file": "Assets/The Art Of Persuasion.pdf",
+                "page": 9,
+                "left": -1,
+                "top": 291,
+                "zoom": 0.5612745098039216
               },
-              "icon": "lucide-layout-grid",
-              "title": "Book_View_Mobile"
+              "icon": "lucide-file-text",
+              "title": "The Art Of Persuasion"
             }
           }
         ]
@@ -111,7 +114,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Book View.base",
+            "file": "Assets/The Art Of Persuasion.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -166,24 +169,28 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "36f8a5987cb65f0a",
+  "active": "8708b28797136d58",
   "lastOpenFiles": [
+    "Books/The Alchemist.md",
     "Assets/The Art Of Persuasion.pdf",
+    "Books/The Art of Persuasion - Bob Burg.md",
+    "Book_View_Mobile.base",
     "/Books/The Art of Persuasion - Bob Burg.md",
     "/Books",
     "/Assets/The Art Of Persuasion.pdf",
     "Assets",
     "/Assets",
     "Book View.base",
-    "Book_View_Mobile.base",
     "/Book_View_Mobile.base",
     "README.md",
     "Books/The Courage To Be Disliked - Ichiro Kishimi Fumitake Koga.md",
-    "Books/The Art of Persuasion - Bob Burg.md",
-    "Books/The Alchemist.md",
     "Books/Talking with Psychopaths and Savages Mass Murderers and Spree Killers - Christopher Berry-Dee.md",
     "Books/Talking with Psychopaths and Savages - a Journey Into the Evil Mind - Christopher Berry-Dee.md",
     "Books/Talking With Psychopaths and Savages Beyond Evil - Christopher Berry-Dee.md",
