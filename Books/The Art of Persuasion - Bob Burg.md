@@ -27,4 +27,6 @@ isbn13: 9780768413007
 > [!PDF|red] [[The Art Of Persuasion.pdf#page=9&selection=23,0,31,1&color=red|The Art Of Persuasion, p.9]]
 > > According to Webster’s Dictionary, to win means to succeed or prevail in a contest or effort; to triumph; to be victorious.
 
+> [!PDF|] [[The Art Of Persuasion.pdf#page=13&selection=19,64,24,2|The Art Of Persuasion, p.13]]
+> > By “win” I mean getting what you want from that person while making him or her feel really good about you and the situation at hand. 
 
