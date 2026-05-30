@@ -4,6 +4,28 @@
     "type": "split",
     "children": [
       {
+        "id": "6c621fa6376b5daf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1731a078942b365",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Books/Assets/The Art Of Persuasion.pdf",
+                "page": 9,
+                "left": -1,
+                "top": 326,
+                "zoom": 0.5612745098039216
+              },
+              "icon": "lucide-file-text",
+              "title": "The Art Of Persuasion"
+            }
+          }
+        ]
+      },
+      {
         "id": "69b3bc7056be72fe",
         "type": "tabs",
         "children": [
@@ -112,7 +134,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Books/The Art of Persuasion - Bob Burg.md",
+            "file": "Books/Assets/The Art Of Persuasion.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -174,12 +196,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "8708b28797136d58",
+  "active": "f1731a078942b365",
   "lastOpenFiles": [
+    "Books/The Art of Persuasion - Bob Burg.md",
     "Books/Assets/The Art Of Persuasion.pdf",
     "Books/The Courage To Be Disliked - Ichiro Kishimi Fumitake Koga.md",
     "Books/The Alchemist.md",
-    "Books/The Art of Persuasion - Bob Burg.md",
     "Book_View_Mobile.base",
     "/Books/The Art of Persuasion - Bob Burg.md",
     "/Books",
