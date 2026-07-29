@@ -145,8 +145,8 @@
               "state": {
                 "file": "Books/Assets/The Art Of Persuasion.pdf",
                 "page": 15,
-                "left": -1,
-                "top": 323,
+                "left": 0,
+                "top": 333,
                 "zoom": 0.5612745098039216
               },
               "icon": "lucide-file-text",
